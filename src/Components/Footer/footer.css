@@ -1,0 +1,20 @@
+*{
+    font-family: Arial, sans-serif;
+}
+.footer-card{
+    padding: 1rem;
+    background-color: rgb(214, 218, 222);
+    display: flex;
+    justify-content: space-between;
+    
+}
+.locaton{
+    background-color: rgb(61, 154, 235);
+    height: 40px;
+    width: 150px;
+    border-radius: 5px;
+    border: 0;
+    color: aliceblue;
+    font-weight: 20px;
+
+}

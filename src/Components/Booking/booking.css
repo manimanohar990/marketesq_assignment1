@@ -1,0 +1,67 @@
+.booking-card{
+    background-color: rgb(239, 244, 247);
+    padding: 1rem;
+    margin: 1rem;
+    height: 16rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.moving-card{
+    background-color: rgb(239, 244, 247);
+    padding: 1rem;
+    margin: 1rem;
+    height: 22rem;
+}
+.booking-child{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+}
+.img-config{
+    
+    height: 19rem;
+    
+}
+.booking-sec{
+    background-color: white;
+    padding: 5px;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 4px 12px rgb(140, 135, 135);
+    height: 100px;
+    width: 550px;
+    border-radius:5px ;
+    
+}
+.bar{
+    box-shadow: 0px 4px 12px black;
+}
+.btn{
+    background-color: rgb(91, 164, 228);
+    border: 0;
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+    color: aliceblue;
+}
+.date-card{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 5px;
+    
+    
+}
+.date-box{
+    height: 30px;
+}
+.pdg{
+    margin: 5px;
+}
+.mini-btn{
+   border: 0;
+    align-items: center;
+}

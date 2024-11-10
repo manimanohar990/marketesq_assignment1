@@ -1,0 +1,9 @@
+*{
+    font-family:Arial, sans-serif ;
+}
+.terms{
+    background-color: rgb(234, 239, 243);
+    margin-top: 3rem;
+    padding: 1rem;
+    width: 20rem;
+}

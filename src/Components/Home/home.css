@@ -1,0 +1,25 @@
+*{
+    font-family: "Roboto";
+}
+
+.header_bar{
+    padding: 10px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+}
+.header_bar h3{
+    font-size: 25px;
+}
+.header_txt{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.about{
+    margin-left: 10px;
+}
+.head{
+    text-align: center;
+    padding: 3rem;
+}

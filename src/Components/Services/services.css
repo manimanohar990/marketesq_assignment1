@@ -1,0 +1,28 @@
+.main-card{
+    width: 260px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    
+
+}
+.service-card{
+    display: flex;
+    align-items: center;
+    flex-direction: column;   
+}
+.service-card h1{
+    font-size: 25px;
+}
+.adjust-row{
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+}
+.readmore{
+    color: rgb(69, 78, 234);
+}
